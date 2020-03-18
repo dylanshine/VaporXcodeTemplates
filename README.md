@@ -12,6 +12,6 @@ This repository contains custom Xcode file templates to help you develop applica
         
         $ mkdir Vapor
 
-3. Copy the contents of the `VaporXcodeTemplates` repository into the `Vapor` folder you just created.
+3. Copy the `.xctemplate` folders in the `VaporXcodeTemplates` repository into the `Vapor` folder you just created.
 
 4. The templates appear in the Xcode file and project template browsers under a `Vapor` group.
